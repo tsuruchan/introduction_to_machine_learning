@@ -1,6 +1,4 @@
-# AI_STANDARD
-機械学習カリキュラム
-
+# 機械学習 入門
 ## Machine Leaning Course vol.1
 ### 機械学習とは？
 - どういうことができるの？
